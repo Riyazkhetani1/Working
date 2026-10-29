@@ -1,0 +1,76 @@
+
+.box{
+    background-color: grey;
+    color: Yellow;
+    height: 100px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+    border: 2px solid black;
+    text-align: center;
+}
+
+/* h1{
+    background-color: grey;
+    color: Yellow;
+    height: 100px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+} */
+
+.box2{
+    background-color: royalblue;
+    color: pink;
+    height: 100px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+/* h2{
+    background-color: royalblue;
+    color: pink;
+    height: 100px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+} */
+.box3{
+    background-color: skyblue;
+    color: black;
+    height: 100px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+/* h3{
+    background-color: skyblue;
+    color: black;
+    height: 100px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+} */
+
+.box4{
+    background-color: black;
+    color: white    ;
+    height: 100px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+    /* border: 2px solid black; */
+}
+
+/* p{
+    background-color: black;
+    color: white    ;
+    height: 100px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: italic;
+} */
